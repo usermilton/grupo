@@ -2,3 +2,4 @@ compren acciones
 Me interesa, precio de las acciones
 sales los bitcoins
 en dolares 
+pasen direccion de bitcoin
